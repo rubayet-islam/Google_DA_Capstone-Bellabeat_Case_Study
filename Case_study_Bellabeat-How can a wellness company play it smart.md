@@ -14,7 +14,7 @@ You have been asked to focus on one of Bellabeat’s products and analyze smart 
 
 ----
 
-## Step 1: Defining Business Task 
+## Defining Business Task 
 
 ### Business Task
 
@@ -41,7 +41,7 @@ A report with the following deliverables:
 
 - ***Bellabeat marketing analytics team:*** A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. You joined this team six months ago and have been busy learning about Bellabeat’’s mission and business goals — as well as how you, as a junior data analyst, can help Bellabeat achieve them.
 
-## Step 2: Data-set Integrity Check and Cleaning Preparation
+## Data-set Integrity Check and Cleaning Preparation
 
 ### Tools Used 
 
@@ -70,11 +70,11 @@ Since data has been collected from third party and was preprocessed as well, ori
 - Some of the data contains 1440 mins of Sedentary minutes which is equivalent to  hour. This indicates not wearing the tracker throughout the day.
 - There are no information regarding what intensity is and how to measure and unit of intensity in the hourlyIntensities_merged.csv
 
-#### Current 
+#### Data Colletion Period
 
 This data was collected by Amazon Mechanical Turk between 03.12.2016 - 05.12.2016. This indicates that data is quite outdated. This decreases usability of the data.
 
-#### Cited
+#### Citation
 
 Digital Object Identifier (DOI) is 10.5281/zenodo.53894 which resolves to [this](https://doi.org/10.5281/zenodo.53894)
 
@@ -112,7 +112,7 @@ Digital Object Identifier (DOI) is 10.5281/zenodo.53894 which resolves to [this]
 |    Sleep    |        :x:         |        :x:         |        :x:         | :heavy_check_mark: |
 |   Weight    |        :x:         |        :x:         |        :x:         |     Inadequate     |
 
-## Step 3: Cleaning and Processing Data
+## Cleaning and Processing Data
 
 The data set has been marked as pre-processed. There is less chance of blanks or dirty data. However, in order to clean obtained data following cleaning activities have been performed:
 - The date format of the daily and hourly data logs were modified with excel to 'YYYY-MM-DD HH:MM:SS' format for ease of future calculations.
@@ -232,7 +232,7 @@ The data set has been marked as pre-processed. There is less chance of blanks or
 
 - Along with the above mentioned extracted table, sleepDay_merged.csv has been used for analysis.
 
-## Step 4: Analyzing and Visualizing Data
+## Analyzing and Visualizing Data
 
 As per available data, following correlations have been analyzed and visualized:
 
