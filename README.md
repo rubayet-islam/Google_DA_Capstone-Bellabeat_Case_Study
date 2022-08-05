@@ -8,6 +8,6 @@ Bellabeat, a high-tech manufacturer of health-focused products for women. Bellab
 
 Data used for this project is from a fitness tracking device under brand Fitbit open/public data which can be found in this [link](https://www.kaggle.com/datasets/arashnic/fitbit). The data is about fitness data from 30 individuals wearing Fitbit fitness tracker. 
 
-Details of the analysis can be found here: [Fitbit data set analysis](./'Case_study_2-How can a wellness company play it smart_personal_log.md')
+Details of the analysis can be found here: [Fitbit data-set analysis for Bellabeat](https://github.com/rubayet-islam/Google_DA_Capstone-Bellabeat_Case_Study/blob/9ddb9b6cd74e5652c6893b897e93b22df88951cb/Case_study_Bellabeat-How%20can%20a%20wellness%20company%20play%20it%20smart.md)
 
 
